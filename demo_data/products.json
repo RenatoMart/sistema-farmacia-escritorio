@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "235c2d1b-5b89-4af5-9a12-b084cd67fdc9",
+    "commercial_name": "Paracetamol 500",
+    "generic_name": "Acetaminofen",
+    "laboratory": "Laboratorio Vida",
+    "therapeutic_action": "Analgésico",
+    "description": "Tabletas para dolor leve",
+    "presentation": "Blister",
+    "package_units": 10,
+    "concentration_mg": 500,
+    "stock": 120,
+    "expiry_date": "2026-09-25",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": null,
+      "package_unit": "Blister",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 10,
+      "total_base_units": 120
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.35,
+      "package_unit": 3.5
+    },
+    "avg_cost_base": 0.12,
+    "cost_per_package": 1.2,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "3c011798-b63d-4751-80f4-f4172a9ae2eb",
+    "commercial_name": "Amoxicilina 500",
+    "generic_name": "Amoxicilina",
+    "laboratory": "SaludPlus",
+    "therapeutic_action": "Antibiótico",
+    "description": "Cápsulas antibióticas",
+    "presentation": "Caja",
+    "package_units": 20,
+    "concentration_mg": 500,
+    "stock": 40,
+    "expiry_date": "2026-10-15",
+    "unit_hierarchy": {
+      "base_unit": "Cápsula",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 10,
+      "intermediate_per_package": 2,
+      "total_base_units": 60
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.95,
+      "intermediate_unit": 9.5,
+      "package_unit": 19.0
+    },
+    "avg_cost_base": 0.55,
+    "cost_per_package": 11.0,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med001-aspirina-100mg",
+    "commercial_name": "Aspirina 100mg",
+    "generic_name": "Ácido Acetilsalicílico",
+    "laboratory": "Bayer",
+    "therapeutic_action": "Antiagregante plaquetario",
+    "description": "Tabletas recubiertas de 100mg",
+    "presentation": "Caja",
+    "package_units": 30,
+    "concentration_mg": 100,
+    "stock": 840,
+    "expiry_date": "2026-10-30",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 14,
+      "intermediate_per_package": 2,
+      "total_base_units": 840
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.25,
+      "intermediate_unit": 3.5,
+      "package_unit": 7.0
+    },
+    "avg_cost_base": 0.08,
+    "cost_per_package": 2.24,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med002-omeprazol-20mg",
+    "commercial_name": "Omeprazol 20mg",
+    "generic_name": "Omeprazol",
+    "laboratory": "Tecnoquímicas",
+    "therapeutic_action": "Inhibidor de bomba de protones",
+    "description": "Cápsulas de liberación retardada",
+    "presentation": "Caja",
+    "package_units": 14,
+    "concentration_mg": 20,
+    "stock": 420,
+    "expiry_date": "2026-11-16",
+    "unit_hierarchy": {
+      "base_unit": "Cápsula",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 14,
+      "intermediate_per_package": 1,
+      "total_base_units": 420
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.85,
+      "intermediate_unit": 11.9,
+      "package_unit": 11.9
+    },
+    "avg_cost_base": 0.35,
+    "cost_per_package": 4.9,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med003-loratadina-10mg",
+    "commercial_name": "Loratadina 10mg",
+    "generic_name": "Loratadina",
+    "laboratory": "Genfar",
+    "therapeutic_action": "Antihistamínico",
+    "description": "Tabletas no sedantes",
+    "presentation": "Caja",
+    "package_units": 20,
+    "concentration_mg": 10,
+    "stock": 600,
+    "expiry_date": "2026-11-30",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 10,
+      "intermediate_per_package": 2,
+      "total_base_units": 600
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.45,
+      "intermediate_unit": 4.5,
+      "package_unit": 9.0
+    },
+    "avg_cost_base": 0.15,
+    "cost_per_package": 3.0,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med004-diclofenaco-75mg",
+    "commercial_name": "Diclofenaco 75mg",
+    "generic_name": "Diclofenaco Sódico",
+    "laboratory": "Laproff",
+    "therapeutic_action": "Antiinflamatorio",
+    "description": "Tabletas de liberación prolongada",
+    "presentation": "Caja",
+    "package_units": 20,
+    "concentration_mg": 75,
+    "stock": 0,
+    "expiry_date": "2026-12-23",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 10,
+      "intermediate_per_package": 2,
+      "total_base_units": 240
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.65,
+      "intermediate_unit": 6.5,
+      "package_unit": 13.0
+    },
+    "avg_cost_base": 0.28,
+    "cost_per_package": 5.6,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med005-metformina-850mg",
+    "commercial_name": "Metformina 850mg",
+    "generic_name": "Metformina HCl",
+    "laboratory": "MK",
+    "therapeutic_action": "Antidiabético",
+    "description": "Tabletas recubiertas",
+    "presentation": "Caja",
+    "package_units": 30,
+    "concentration_mg": 850,
+    "stock": 900,
+    "expiry_date": "2027-01-27",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 15,
+      "intermediate_per_package": 2,
+      "total_base_units": 900
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.55,
+      "intermediate_unit": 8.25,
+      "package_unit": 16.5
+    },
+    "avg_cost_base": 0.22,
+    "cost_per_package": 6.6,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med006-cetirizina-10mg",
+    "commercial_name": "Cetirizina 10mg",
+    "generic_name": "Cetirizina HCl",
+    "laboratory": "Roemmers",
+    "therapeutic_action": "Antihistamínico",
+    "description": "Tabletas recubiertas",
+    "presentation": "Caja",
+    "package_units": 10,
+    "concentration_mg": 10,
+    "stock": 300,
+    "expiry_date": "2027-03-08",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 10,
+      "intermediate_per_package": 1,
+      "total_base_units": 300
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.4,
+      "intermediate_unit": 4.0,
+      "package_unit": 4.0
+    },
+    "avg_cost_base": 0.18,
+    "cost_per_package": 1.8,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med007-azitromicina-500mg",
+    "commercial_name": "Azitromicina 500mg",
+    "generic_name": "Azitromicina",
+    "laboratory": "Pfizer",
+    "therapeutic_action": "Antibiótico",
+    "description": "Tabletas recubiertas",
+    "presentation": "Caja",
+    "package_units": 3,
+    "concentration_mg": 500,
+    "stock": 90,
+    "expiry_date": "2027-04-27",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 3,
+      "intermediate_per_package": 1,
+      "total_base_units": 90
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 2.8,
+      "intermediate_unit": 8.4,
+      "package_unit": 8.4
+    },
+    "avg_cost_base": 1.25,
+    "cost_per_package": 3.75,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med008-acetaminofen-jarabe",
+    "commercial_name": "Acetaminofén Jarabe Infantil",
+    "generic_name": "Acetaminofén",
+    "laboratory": "Laboratorios Bagó",
+    "therapeutic_action": "Analgésico y antipirético",
+    "description": "Jarabe 120mg/5ml",
+    "presentation": "Frasco",
+    "package_units": 120,
+    "concentration_mg": 120,
+    "stock": 2400,
+    "expiry_date": "2027-06-26",
+    "unit_hierarchy": {
+      "base_unit": "ml",
+      "intermediate_unit": null,
+      "package_unit": "Frasco",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 120,
+      "total_base_units": 2400
+    },
+    "sellable_units": [
+      "package_unit"
+    ],
+    "prices": {
+      "package_unit": 5.25
+    },
+    "avg_cost_base": 0.020833,
+    "cost_per_package": 2.5,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med009-ibuprofeno-400mg",
+    "commercial_name": "Ibuprofeno 400mg",
+    "generic_name": "Ibuprofeno",
+    "laboratory": "Farmatech",
+    "therapeutic_action": "Antiinflamatorio",
+    "description": "Tabletas recubiertas",
+    "presentation": "Caja",
+    "package_units": 24,
+    "concentration_mg": 400,
+    "stock": 480,
+    "expiry_date": "2027-09-04",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 12,
+      "intermediate_per_package": 2,
+      "total_base_units": 480
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.42,
+      "intermediate_unit": 5.04,
+      "package_unit": 10.08
+    },
+    "avg_cost_base": 0.18,
+    "cost_per_package": 4.32,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med010-dexametasona-8mg",
+    "commercial_name": "Dexametasona 8mg",
+    "generic_name": "Dexametasona",
+    "laboratory": "Steroid Pharma",
+    "therapeutic_action": "Corticosteroide",
+    "description": "Tabletas antiinflamatorias",
+    "presentation": "Caja",
+    "package_units": 10,
+    "concentration_mg": 8,
+    "stock": 200,
+    "expiry_date": "2027-11-13",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 10,
+      "intermediate_per_package": 1,
+      "total_base_units": 200
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 1.45,
+      "intermediate_unit": 14.5,
+      "package_unit": 14.5
+    },
+    "avg_cost_base": 0.65,
+    "cost_per_package": 6.5,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med011-captopril-25mg",
+    "commercial_name": "Captopril 25mg",
+    "generic_name": "Captopril",
+    "laboratory": "CardioMed",
+    "therapeutic_action": "Antihipertensivo",
+    "description": "Tabletas sublinguales",
+    "presentation": "Frasco",
+    "package_units": 50,
+    "concentration_mg": 25,
+    "stock": 1500,
+    "expiry_date": "2026-09-25",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": null,
+      "package_unit": "Frasco",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 50,
+      "total_base_units": 1500
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.22,
+      "package_unit": 11.0
+    },
+    "avg_cost_base": 0.08,
+    "cost_per_package": 4.0,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med012-furosemida-40mg",
+    "commercial_name": "Furosemida 40mg",
+    "generic_name": "Furosemida",
+    "laboratory": "Diuretic Labs",
+    "therapeutic_action": "Diurético",
+    "description": "Tabletas diuréticas",
+    "presentation": "Caja",
+    "package_units": 30,
+    "concentration_mg": 40,
+    "stock": 360,
+    "expiry_date": "2026-10-15",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 15,
+      "intermediate_per_package": 2,
+      "total_base_units": 360
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.35,
+      "intermediate_unit": 5.25,
+      "package_unit": 10.5
+    },
+    "avg_cost_base": 0.12,
+    "cost_per_package": 3.6,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med013-enalapril-10mg",
+    "commercial_name": "Enalapril 10mg",
+    "generic_name": "Enalapril Maleato",
+    "laboratory": "ACE Inhibitors Inc",
+    "therapeutic_action": "Antihipertensivo",
+    "description": "Tabletas para hipertensión",
+    "presentation": "Caja",
+    "package_units": 28,
+    "concentration_mg": 10,
+    "stock": 560,
+    "expiry_date": "2026-10-30",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 14,
+      "intermediate_per_package": 2,
+      "total_base_units": 560
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.38,
+      "intermediate_unit": 5.32,
+      "package_unit": 10.64
+    },
+    "avg_cost_base": 0.15,
+    "cost_per_package": 4.2,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med014-salbutamol-inhaler",
+    "commercial_name": "Salbutamol Inhalador",
+    "generic_name": "Salbutamol",
+    "laboratory": "RespiraFácil",
+    "therapeutic_action": "Broncodilatador",
+    "description": "Inhalador dosis medida 200 dosis",
+    "presentation": "Inhalador",
+    "package_units": 200,
+    "concentration_mg": 0.1,
+    "stock": 4000,
+    "expiry_date": "2026-11-16",
+    "unit_hierarchy": {
+      "base_unit": "Dosis",
+      "intermediate_unit": null,
+      "package_unit": "Inhalador",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 200,
+      "total_base_units": 4000
+    },
+    "sellable_units": [
+      "package_unit"
+    ],
+    "prices": {
+      "package_unit": 8.75
+    },
+    "avg_cost_base": 0.0225,
+    "cost_per_package": 4.5,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med015-ciprofloxacina-500mg",
+    "commercial_name": "Ciprofloxacina 500mg",
+    "generic_name": "Ciprofloxacina HCl",
+    "laboratory": "Antibiotics Pro",
+    "therapeutic_action": "Antibiótico fluoroquinolona",
+    "description": "Tabletas recubiertas",
+    "presentation": "Caja",
+    "package_units": 14,
+    "concentration_mg": 500,
+    "stock": 280,
+    "expiry_date": "2026-11-30",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 14,
+      "intermediate_per_package": 1,
+      "total_base_units": 280
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 1.95,
+      "intermediate_unit": 27.3,
+      "package_unit": 27.3
+    },
+    "avg_cost_base": 0.85,
+    "cost_per_package": 11.9,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med016-vitamina-b12",
+    "commercial_name": "Vitamina B12 1000mcg",
+    "generic_name": "Cianocobalamina",
+    "laboratory": "VitaSuper",
+    "therapeutic_action": "Suplemento vitamínico",
+    "description": "Cápsulas blandas",
+    "presentation": "Frasco",
+    "package_units": 60,
+    "concentration_mg": 1,
+    "stock": 1800,
+    "expiry_date": "2026-12-23",
+    "unit_hierarchy": {
+      "base_unit": "Cápsula",
+      "intermediate_unit": null,
+      "package_unit": "Frasco",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 60,
+      "total_base_units": 1800
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.35,
+      "package_unit": 21.0
+    },
+    "avg_cost_base": 0.12,
+    "cost_per_package": 7.2,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med017-ranitidina-150mg",
+    "commercial_name": "Ranitidina 150mg",
+    "generic_name": "Ranitidina HCl",
+    "laboratory": "GastroSecure",
+    "therapeutic_action": "Antiácido",
+    "description": "Tabletas recubiertas",
+    "presentation": "Caja",
+    "package_units": 20,
+    "concentration_mg": 150,
+    "stock": 400,
+    "expiry_date": "2027-01-27",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 10,
+      "intermediate_per_package": 2,
+      "total_base_units": 400
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.55,
+      "intermediate_unit": 5.5,
+      "package_unit": 11.0
+    },
+    "avg_cost_base": 0.22,
+    "cost_per_package": 4.4,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med018-simvastatina-20mg",
+    "commercial_name": "Simvastatina 20mg",
+    "generic_name": "Simvastatina",
+    "laboratory": "CholestoDown",
+    "therapeutic_action": "Hipolipemiante",
+    "description": "Tabletas recubiertas",
+    "presentation": "Caja",
+    "package_units": 28,
+    "concentration_mg": 20,
+    "stock": 420,
+    "expiry_date": "2027-03-08",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 14,
+      "intermediate_per_package": 2,
+      "total_base_units": 420
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.88,
+      "intermediate_unit": 12.32,
+      "package_unit": 24.64
+    },
+    "avg_cost_base": 0.35,
+    "cost_per_package": 9.8,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med019-ketoconazol-200mg",
+    "commercial_name": "Ketoconazol 200mg",
+    "generic_name": "Ketoconazol",
+    "laboratory": "AntiFungal Labs",
+    "therapeutic_action": "Antimicótico",
+    "description": "Tabletas antimicóticas",
+    "presentation": "Caja",
+    "package_units": 14,
+    "concentration_mg": 200,
+    "stock": 210,
+    "expiry_date": "2027-04-27",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 14,
+      "intermediate_per_package": 1,
+      "total_base_units": 210
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 1.65,
+      "intermediate_unit": 23.1,
+      "package_unit": 23.1
+    },
+    "avg_cost_base": 0.75,
+    "cost_per_package": 10.5,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med020-multivitaminico",
+    "commercial_name": "Multivitamínico Adulto",
+    "generic_name": "Complejo Multivitamínico",
+    "laboratory": "NutriVita",
+    "therapeutic_action": "Suplemento nutricional",
+    "description": "Tabletas con vitaminas y minerales",
+    "presentation": "Frasco",
+    "package_units": 100,
+    "concentration_mg": 0,
+    "stock": 3000,
+    "expiry_date": "2027-06-26",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": null,
+      "package_unit": "Frasco",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 100,
+      "total_base_units": 3000
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.25,
+      "package_unit": 25.0
+    },
+    "avg_cost_base": 0.08,
+    "cost_per_package": 8.0,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med021-dipirona-500mg",
+    "commercial_name": "Dipirona 500mg",
+    "generic_name": "Metamizol Sódico",
+    "laboratory": "AnalgesiCorp",
+    "therapeutic_action": "Analgésico antipirético",
+    "description": "Tabletas para fiebre y dolor",
+    "presentation": "Caja",
+    "package_units": 30,
+    "concentration_mg": 500,
+    "stock": 450,
+    "expiry_date": "2027-09-04",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 15,
+      "intermediate_per_package": 2,
+      "total_base_units": 450
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.42,
+      "intermediate_unit": 6.3,
+      "package_unit": 12.6
+    },
+    "avg_cost_base": 0.18,
+    "cost_per_package": 5.4,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med022-loratadina-10mg",
+    "commercial_name": "Loratadina 10mg",
+    "generic_name": "Loratadina",
+    "laboratory": "AllergyFree",
+    "therapeutic_action": "Antihistamínico",
+    "description": "Tabletas para alergias",
+    "presentation": "Caja",
+    "package_units": 20,
+    "concentration_mg": 10,
+    "stock": 320,
+    "expiry_date": "2027-11-13",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 10,
+      "intermediate_per_package": 2,
+      "total_base_units": 320
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.65,
+      "intermediate_unit": 6.5,
+      "package_unit": 13.0
+    },
+    "avg_cost_base": 0.25,
+    "cost_per_package": 5.0,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med023-metformina-850mg",
+    "commercial_name": "Metformina 850mg",
+    "generic_name": "Metformina HCl",
+    "laboratory": "DiabetesControl",
+    "therapeutic_action": "Antidiabético",
+    "description": "Tabletas de liberación prolongada",
+    "presentation": "Frasco",
+    "package_units": 60,
+    "concentration_mg": 850,
+    "stock": 1800,
+    "expiry_date": "2026-09-25",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": null,
+      "package_unit": "Frasco",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 60,
+      "total_base_units": 1800
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.38,
+      "package_unit": 22.8
+    },
+    "avg_cost_base": 0.15,
+    "cost_per_package": 9.0,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med024-captopril-25mg",
+    "commercial_name": "Captopril 25mg",
+    "generic_name": "Captopril",
+    "laboratory": "HyperTension Labs",
+    "therapeutic_action": "Antihipertensivo",
+    "description": "Tabletas sublinguales",
+    "presentation": "Caja",
+    "package_units": 30,
+    "concentration_mg": 25,
+    "stock": 240,
+    "expiry_date": "2026-10-15",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 15,
+      "intermediate_per_package": 2,
+      "total_base_units": 240
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.78,
+      "intermediate_unit": 11.7,
+      "package_unit": 23.4
+    },
+    "avg_cost_base": 0.32,
+    "cost_per_package": 9.6,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med025-dexametasona-4mg",
+    "commercial_name": "Dexametasona 4mg",
+    "generic_name": "Dexametasona",
+    "laboratory": "CorticoPharm",
+    "therapeutic_action": "Corticoesteroide",
+    "description": "Tabletas antiinflamatorias",
+    "presentation": "Caja",
+    "package_units": 20,
+    "concentration_mg": 4,
+    "stock": 100,
+    "expiry_date": "2026-10-30",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 10,
+      "intermediate_per_package": 2,
+      "total_base_units": 200
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 1.15,
+      "intermediate_unit": 11.5,
+      "package_unit": 23.0
+    },
+    "avg_cost_base": 0.45,
+    "cost_per_package": 9.0,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med026-salbutamol-100mcg",
+    "commercial_name": "Salbutamol 100mcg",
+    "generic_name": "Salbutamol Sulfato",
+    "laboratory": "RespiraWell",
+    "therapeutic_action": "Broncodilatador",
+    "description": "Inhalador presurizado",
+    "presentation": "Inhalador",
+    "package_units": 200,
+    "concentration_mg": 0,
+    "stock": 400,
+    "expiry_date": "2026-11-16",
+    "unit_hierarchy": {
+      "base_unit": "Dosis",
+      "intermediate_unit": null,
+      "package_unit": "Inhalador",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 200,
+      "total_base_units": 400
+    },
+    "sellable_units": [
+      "package_unit"
+    ],
+    "prices": {
+      "package_unit": 8.25
+    },
+    "avg_cost_base": 0.0175,
+    "cost_per_package": 3.5,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med027-cetirizina-10mg",
+    "commercial_name": "Cetirizina 10mg",
+    "generic_name": "Cetirizina HCl",
+    "laboratory": "AllergyCure",
+    "therapeutic_action": "Antihistamínico",
+    "description": "Tabletas recubiertas",
+    "presentation": "Caja",
+    "package_units": 14,
+    "concentration_mg": 10,
+    "stock": 280,
+    "expiry_date": "2026-11-30",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 14,
+      "intermediate_per_package": 1,
+      "total_base_units": 280
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.72,
+      "intermediate_unit": 10.08,
+      "package_unit": 10.08
+    },
+    "avg_cost_base": 0.28,
+    "cost_per_package": 3.92,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med028-furosemida-40mg",
+    "commercial_name": "Furosemida 40mg",
+    "generic_name": "Furosemida",
+    "laboratory": "DiureticMax",
+    "therapeutic_action": "Diurético",
+    "description": "Tabletas diuréticas",
+    "presentation": "Caja",
+    "package_units": 28,
+    "concentration_mg": 40,
+    "stock": 420,
+    "expiry_date": "2026-12-23",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 14,
+      "intermediate_per_package": 2,
+      "total_base_units": 420
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.58,
+      "intermediate_unit": 8.12,
+      "package_unit": 16.24
+    },
+    "avg_cost_base": 0.22,
+    "cost_per_package": 6.16,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med029-tramadol-50mg",
+    "commercial_name": "Tramadol 50mg",
+    "generic_name": "Tramadol HCl",
+    "laboratory": "PainRelief Inc",
+    "therapeutic_action": "Analgésico opioide",
+    "description": "Cápsulas para dolor moderado a severo",
+    "presentation": "Caja",
+    "package_units": 20,
+    "concentration_mg": 50,
+    "stock": 160,
+    "expiry_date": "2027-01-27",
+    "unit_hierarchy": {
+      "base_unit": "Cápsula",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 10,
+      "intermediate_per_package": 2,
+      "total_base_units": 160
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 1.95,
+      "intermediate_unit": 19.5,
+      "package_unit": 39.0
+    },
+    "avg_cost_base": 0.85,
+    "cost_per_package": 17.0,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med030-calcio-carbono-500mg",
+    "commercial_name": "Calcio Carbonato 500mg",
+    "generic_name": "Carbonato de Calcio",
+    "laboratory": "BoneStrong",
+    "therapeutic_action": "Suplemento de calcio",
+    "description": "Tabletas masticables",
+    "presentation": "Frasco",
+    "package_units": 90,
+    "concentration_mg": 500,
+    "stock": 2700,
+    "expiry_date": "2027-03-08",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": null,
+      "package_unit": "Frasco",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 90,
+      "total_base_units": 2700
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.18,
+      "package_unit": 16.2
+    },
+    "avg_cost_base": 0.06,
+    "cost_per_package": 5.4,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med020-ibuprofeno-400mg",
+    "commercial_name": "Ibuprofeno 400mg",
+    "generic_name": "Ibuprofeno",
+    "laboratory": "MediLab",
+    "therapeutic_action": "Antiinflamatorio",
+    "description": "Tabletas para inflamación y dolor",
+    "presentation": "Caja",
+    "package_units": 24,
+    "concentration_mg": 400,
+    "stock": 180,
+    "expiry_date": "2027-04-27",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 12,
+      "intermediate_per_package": 2,
+      "total_base_units": 180
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.55,
+      "intermediate_unit": 6.6,
+      "package_unit": 13.2
+    },
+    "avg_cost_base": 0.25,
+    "cost_per_package": 6.0,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med021-omeprazol-20mg",
+    "commercial_name": "Omeprazol 20mg",
+    "generic_name": "Omeprazol",
+    "laboratory": "GastroMed",
+    "therapeutic_action": "Inhibidor protones",
+    "description": "Cápsulas para acidez estomacal",
+    "presentation": "Blister",
+    "package_units": 14,
+    "concentration_mg": 20,
+    "stock": 280,
+    "expiry_date": "2027-06-26",
+    "unit_hierarchy": {
+      "base_unit": "Cápsula",
+      "intermediate_unit": null,
+      "package_unit": "Blister",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 14,
+      "total_base_units": 280
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.85,
+      "package_unit": 11.9
+    },
+    "avg_cost_base": 0.45,
+    "cost_per_package": 6.3,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med022-jarabe-tos",
+    "commercial_name": "Jarabe Antitusivo",
+    "generic_name": "Dextrometorfano",
+    "laboratory": "PharmaKids",
+    "therapeutic_action": "Antitusivo",
+    "description": "Jarabe para la tos en niños",
+    "presentation": "Frasco",
+    "package_units": 120,
+    "concentration_mg": 15,
+    "stock": 1800,
+    "expiry_date": "2027-09-04",
+    "unit_hierarchy": {
+      "base_unit": "ml",
+      "intermediate_unit": null,
+      "package_unit": "Frasco",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 120,
+      "total_base_units": 1800
+    },
+    "sellable_units": [
+      "package_unit"
+    ],
+    "prices": {
+      "package_unit": 6.25
+    },
+    "avg_cost_base": 0.029167,
+    "cost_per_package": 3.5,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med023-losartan-50mg",
+    "commercial_name": "Losartan 50mg",
+    "generic_name": "Losartan",
+    "laboratory": "CardioPharm",
+    "therapeutic_action": "Antihipertensivo",
+    "description": "Tabletas para hipertensión arterial",
+    "presentation": "Caja",
+    "package_units": 30,
+    "concentration_mg": 50,
+    "stock": 450,
+    "expiry_date": "2027-11-13",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 15,
+      "intermediate_per_package": 2,
+      "total_base_units": 450
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.75,
+      "intermediate_unit": 11.25,
+      "package_unit": 22.5
+    },
+    "avg_cost_base": 0.35,
+    "cost_per_package": 10.5,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med024-salbutamol",
+    "commercial_name": "Salbutamol Inhalador",
+    "generic_name": "Salbutamol",
+    "laboratory": "RespiraMed",
+    "therapeutic_action": "Broncodilatador",
+    "description": "Inhalador para asma",
+    "presentation": "Inhalador",
+    "package_units": 200,
+    "concentration_mg": 100,
+    "stock": 4000,
+    "expiry_date": "2026-09-25",
+    "unit_hierarchy": {
+      "base_unit": "Dosis",
+      "intermediate_unit": null,
+      "package_unit": "Inhalador",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 200,
+      "total_base_units": 4000
+    },
+    "sellable_units": [
+      "package_unit"
+    ],
+    "prices": {
+      "package_unit": 15.75
+    },
+    "avg_cost_base": 0.0425,
+    "cost_per_package": 8.5,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med025-metformina-850mg",
+    "commercial_name": "Metformina 850mg",
+    "generic_name": "Metformina",
+    "laboratory": "DiabetCare",
+    "therapeutic_action": "Antidiabético",
+    "description": "Tabletas para diabetes tipo 2",
+    "presentation": "Caja",
+    "package_units": 60,
+    "concentration_mg": 850,
+    "stock": 720,
+    "expiry_date": "2026-10-15",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 20,
+      "intermediate_per_package": 3,
+      "total_base_units": 720
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.42,
+      "intermediate_unit": 8.4,
+      "package_unit": 25.2
+    },
+    "avg_cost_base": 0.18,
+    "cost_per_package": 10.8,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med026-diclofenaco-gel",
+    "commercial_name": "Diclofenaco Gel 1%",
+    "generic_name": "Diclofenaco",
+    "laboratory": "TopicMed",
+    "therapeutic_action": "Antiinflamatorio tópico",
+    "description": "Gel para dolores musculares",
+    "presentation": "Tubo",
+    "package_units": 50,
+    "concentration_mg": 10,
+    "stock": 300,
+    "expiry_date": "2026-10-30",
+    "unit_hierarchy": {
+      "base_unit": "g",
+      "intermediate_unit": null,
+      "package_unit": "Tubo",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 50,
+      "total_base_units": 300
+    },
+    "sellable_units": [
+      "package_unit"
+    ],
+    "prices": {
+      "package_unit": 7.85
+    },
+    "avg_cost_base": 0.084,
+    "cost_per_package": 4.2,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med027-vitamina-d3",
+    "commercial_name": "Vitamina D3 1000 UI",
+    "generic_name": "Colecalciferol",
+    "laboratory": "VitaHealth",
+    "therapeutic_action": "Suplemento vitamínico",
+    "description": "Cápsulas de vitamina D3",
+    "presentation": "Frasco",
+    "package_units": 60,
+    "concentration_mg": 25,
+    "stock": 1800,
+    "expiry_date": "2026-11-16",
+    "unit_hierarchy": {
+      "base_unit": "Cápsula",
+      "intermediate_unit": null,
+      "package_unit": "Frasco",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 60,
+      "total_base_units": 1800
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.35,
+      "package_unit": 21.0
+    },
+    "avg_cost_base": 0.15,
+    "cost_per_package": 9.0,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med028-cetirizina-10mg",
+    "commercial_name": "Cetirizina 10mg",
+    "generic_name": "Cetirizina",
+    "laboratory": "AllergyFree",
+    "therapeutic_action": "Antihistamínico",
+    "description": "Tabletas para alergias",
+    "presentation": "Blister",
+    "package_units": 10,
+    "concentration_mg": 10,
+    "stock": 200,
+    "expiry_date": "2026-11-30",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": null,
+      "package_unit": "Blister",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 10,
+      "total_base_units": 200
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.65,
+      "package_unit": 6.5
+    },
+    "avg_cost_base": 0.28,
+    "cost_per_package": 2.8,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med029-enalapril-10mg",
+    "commercial_name": "Enalapril 10mg",
+    "generic_name": "Enalapril",
+    "laboratory": "CardioVida",
+    "therapeutic_action": "Antihipertensivo",
+    "description": "Tabletas para presión arterial",
+    "presentation": "Caja",
+    "package_units": 28,
+    "concentration_mg": 10,
+    "stock": 392,
+    "expiry_date": "2026-12-23",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 14,
+      "intermediate_per_package": 2,
+      "total_base_units": 392
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.48,
+      "intermediate_unit": 6.72,
+      "package_unit": 13.44
+    },
+    "avg_cost_base": 0.22,
+    "cost_per_package": 6.16,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med030-suero-oral",
+    "commercial_name": "Suero Oral Sabor Naranja",
+    "generic_name": "Sales de rehidratación",
+    "laboratory": "HidraLife",
+    "therapeutic_action": "Rehidratante",
+    "description": "Sobres para rehidratación oral",
+    "presentation": "Caja",
+    "package_units": 6,
+    "concentration_mg": 0,
+    "stock": 144,
+    "expiry_date": "2027-01-27",
+    "unit_hierarchy": {
+      "base_unit": "Sobre",
+      "intermediate_unit": null,
+      "package_unit": "Caja",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 6,
+      "total_base_units": 144
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 1.65,
+      "package_unit": 9.9
+    },
+    "avg_cost_base": 0.85,
+    "cost_per_package": 5.1,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med031-azitromicina-500mg",
+    "commercial_name": "Azitromicina 500mg",
+    "generic_name": "Azitromicina",
+    "laboratory": "AntiBio Plus",
+    "therapeutic_action": "Antibiótico",
+    "description": "Cápsulas para infecciones respiratorias",
+    "presentation": "Blister",
+    "package_units": 3,
+    "concentration_mg": 500,
+    "stock": 90,
+    "expiry_date": "2027-03-08",
+    "unit_hierarchy": {
+      "base_unit": "Cápsula",
+      "intermediate_unit": null,
+      "package_unit": "Blister",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 3,
+      "total_base_units": 90
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 2.45,
+      "package_unit": 7.35
+    },
+    "avg_cost_base": 1.25,
+    "cost_per_package": 3.75,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med032-tramadol-50mg",
+    "commercial_name": "Tramadol 50mg",
+    "generic_name": "Tramadol",
+    "laboratory": "PainRelief",
+    "therapeutic_action": "Analgésico opiáceo",
+    "description": "Cápsulas para dolor moderado a severo",
+    "presentation": "Caja",
+    "package_units": 20,
+    "concentration_mg": 50,
+    "stock": 200,
+    "expiry_date": "2027-04-27",
+    "unit_hierarchy": {
+      "base_unit": "Cápsula",
+      "intermediate_unit": "Blister",
+      "package_unit": "Caja",
+      "units_per_intermediate": 10,
+      "intermediate_per_package": 2,
+      "total_base_units": 200
+    },
+    "sellable_units": [
+      "base_unit",
+      "intermediate_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 1.25,
+      "intermediate_unit": 12.5,
+      "package_unit": 25.0
+    },
+    "avg_cost_base": 0.65,
+    "cost_per_package": 13.0,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med033-hioscina-10mg",
+    "commercial_name": "Hioscina 10mg",
+    "generic_name": "Butilhioscina",
+    "laboratory": "SpasmoCure",
+    "therapeutic_action": "Antiespasmódico",
+    "description": "Tabletas para cólicos",
+    "presentation": "Blister",
+    "package_units": 10,
+    "concentration_mg": 10,
+    "stock": 150,
+    "expiry_date": "2027-06-26",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": null,
+      "package_unit": "Blister",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 10,
+      "total_base_units": 150
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.75,
+      "package_unit": 7.5
+    },
+    "avg_cost_base": 0.38,
+    "cost_per_package": 3.8,
+    "needs_price_review": false,
+    "pricing_version": 2
+  },
+  {
+    "id": "med034-clorfenamina-4mg",
+    "commercial_name": "Clorfenamina 4mg",
+    "generic_name": "Clorfenamina",
+    "laboratory": "AntiAllergy",
+    "therapeutic_action": "Antihistamínico",
+    "description": "Tabletas para rinitis alérgica",
+    "presentation": "Frasco",
+    "package_units": 100,
+    "concentration_mg": 4,
+    "stock": 2500,
+    "expiry_date": "2027-09-04",
+    "unit_hierarchy": {
+      "base_unit": "Tableta",
+      "intermediate_unit": null,
+      "package_unit": "Frasco",
+      "units_per_intermediate": 1,
+      "intermediate_per_package": 100,
+      "total_base_units": 2500
+    },
+    "sellable_units": [
+      "base_unit",
+      "package_unit"
+    ],
+    "prices": {
+      "base_unit": 0.18,
+      "package_unit": 18.0
+    },
+    "avg_cost_base": 0.08,
+    "cost_per_package": 8.0,
+    "needs_price_review": false,
+    "pricing_version": 2
+  }
+]

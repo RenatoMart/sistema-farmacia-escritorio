@@ -1,0 +1,184 @@
+[
+  {
+    "id": "mov072-suero-salida",
+    "username": "ana",
+    "user_name": "Ana",
+    "action": "Registro de Salida",
+    "timestamp": "2026-08-16 10:15:00",
+    "details": {
+      "product_name": "Suero Oral Sabor Naranja",
+      "movement_type": "Salida",
+      "quantity": "1 Caja",
+      "total": 9.9,
+      "date": "2026-08-16"
+    }
+  },
+  {
+    "id": "mov073-azitromicina-entrada",
+    "username": "luis",
+    "user_name": "Luis",
+    "action": "Registro de Entrada",
+    "timestamp": "2026-08-14 10:15:00",
+    "details": {
+      "product_name": "Azitromicina 500mg",
+      "movement_type": "Entrada",
+      "quantity": "35 Blisters",
+      "total": 131.25,
+      "date": "2026-08-14"
+    }
+  },
+  {
+    "id": "mov074-azitromicina-salida",
+    "username": "ana",
+    "user_name": "Ana",
+    "action": "Registro de Salida",
+    "timestamp": "2026-08-15 10:15:00",
+    "details": {
+      "product_name": "Azitromicina 500mg",
+      "movement_type": "Salida",
+      "quantity": "1 Blister",
+      "total": 7.35,
+      "date": "2026-08-15"
+    }
+  },
+  {
+    "id": "mov077-hioscina-entrada",
+    "username": "ana",
+    "user_name": "Ana",
+    "action": "Registro de Entrada",
+    "timestamp": "2026-08-12 10:15:00",
+    "details": {
+      "product_name": "Hioscina 10mg",
+      "movement_type": "Entrada",
+      "quantity": "20 Blisters",
+      "total": 76.0,
+      "date": "2026-08-12"
+    }
+  },
+  {
+    "id": "mov078-hioscina-salida",
+    "username": "ana",
+    "user_name": "Ana",
+    "action": "Registro de Salida",
+    "timestamp": "2026-08-13 10:15:00",
+    "details": {
+      "product_name": "Hioscina 10mg",
+      "movement_type": "Salida",
+      "quantity": "5 Tabletas",
+      "total": 3.75,
+      "date": "2026-08-13"
+    }
+  },
+  {
+    "id": "mov080-clorfenamina-salida",
+    "username": "luis",
+    "user_name": "Luis",
+    "action": "Registro de Salida",
+    "timestamp": "2026-08-12 10:15:00",
+    "details": {
+      "product_name": "Clorfenamina 4mg",
+      "movement_type": "Salida",
+      "quantity": "10 Tabletas",
+      "total": 1.8,
+      "date": "2026-08-12"
+    }
+  },
+  {
+    "id": "1fc4ed47-4ea1-4931-9f26-3fc91de5fbbd",
+    "username": "luis",
+    "user_name": "Luis",
+    "action": "Registro de Salida",
+    "timestamp": "2026-10-04 10:15:00",
+    "details": {
+      "product_name": "Amoxicilina 500",
+      "movement_type": "Salida",
+      "quantity": "5 Cápsulas",
+      "total": 4.75,
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "id": "180a7249-94f1-4cfa-9480-f8f986832adb",
+    "username": "ana",
+    "user_name": "Ana",
+    "action": "Registro de Salida",
+    "timestamp": "2026-10-05 10:15:00",
+    "details": {
+      "product_name": "Amoxicilina 500",
+      "movement_type": "Salida",
+      "quantity": "5 Cápsulas",
+      "total": 4.75,
+      "date": "2026-10-05"
+    }
+  },
+  {
+    "id": "180a7249-94f1-4cfa-9480-f8f986832adb",
+    "username": "luis",
+    "user_name": "Luis",
+    "action": "Registro de Salida",
+    "timestamp": "2026-10-05 10:15:00",
+    "details": {
+      "product_name": "Amoxicilina 500",
+      "movement_type": "Salida",
+      "quantity": "5 Cápsulas",
+      "total": 4.75,
+      "date": "2026-10-05"
+    }
+  },
+  {
+    "id": "87d8ac11-7129-4a3e-ad69-aedd6f253c02",
+    "username": "ana",
+    "user_name": "Ana",
+    "action": "Registro de Salida",
+    "timestamp": "2026-10-06 10:15:00",
+    "details": {
+      "product_name": "Amoxicilina 500",
+      "movement_type": "Salida",
+      "quantity": "1 Blister",
+      "total": 9.5,
+      "date": "2026-10-06"
+    }
+  },
+  {
+    "id": "c33f3fa6-c231-4a19-8424-7abdfe475038",
+    "username": "luis",
+    "user_name": "Luis",
+    "action": "Registro de Salida",
+    "timestamp": "2026-10-07 10:15:00",
+    "details": {
+      "product_name": "Amoxicilina 500",
+      "movement_type": "Salida",
+      "quantity": "5 Cápsulas",
+      "total": 4.75,
+      "date": "2026-10-07"
+    }
+  },
+  {
+    "id": "000311be-5f33-47a2-8ea3-861f055e81a2",
+    "username": "ana",
+    "user_name": "Ana",
+    "action": "Registro de Salida",
+    "timestamp": "2026-10-08 10:15:00",
+    "details": {
+      "product_name": "Amoxicilina 500",
+      "movement_type": "Salida",
+      "quantity": "1 Cápsula",
+      "total": 0.95,
+      "date": "2026-10-08"
+    }
+  },
+  {
+    "id": "f673f864-10d0-432e-9e67-d43acc049ae6",
+    "username": "luis",
+    "user_name": "Luis",
+    "action": "Registro de Salida",
+    "timestamp": "2026-10-08 10:15:00",
+    "details": {
+      "product_name": "Amoxicilina 500",
+      "movement_type": "Salida",
+      "quantity": "4 Cápsulas",
+      "total": 3.8,
+      "date": "2026-10-08"
+    }
+  }
+]

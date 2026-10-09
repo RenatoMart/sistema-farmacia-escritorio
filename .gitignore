@@ -1,0 +1,35 @@
+# --- Datos reales de la farmacia (usuarios, ventas, productos) y configuración local ---
+# No subir nunca: contienen nombres, hashes de contraseñas y movimientos reales.
+/data/
+path_config.json
+/activities.json
+/movements.json
+/products.json
+/settings.json
+/users.json
+*_backup.json
+*_pre_pricing_backup.json
+/pdfs/
+
+# --- Script de migración puntual con datos locales ---
+/update_movements.py
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# --- Empaquetado ---
+/build/
+/dist/
+
+# --- Editores y sistema ---
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

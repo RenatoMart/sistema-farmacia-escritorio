@@ -1,0 +1,37 @@
+{
+  "admin": {
+    "name": "Carlos",
+    "username": "admin",
+    "password_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "role": "admin",
+    "permissions": [
+      "all",
+      "manage_staff",
+      "change_staff_passwords"
+    ]
+  },
+  "ana": {
+    "name": "Ana",
+    "username": "ana",
+    "password_hash": "2a97516c354b68848cdbd8f54a226a0a55b21ed138e207ad6c5cbb9c00aa5aea",
+    "role": "personal",
+    "permissions": [
+      "register_entry",
+      "register_sale",
+      "view_reports",
+      "change_own_password"
+    ]
+  },
+  "luis": {
+    "name": "Luis",
+    "username": "luis",
+    "password_hash": "2a97516c354b68848cdbd8f54a226a0a55b21ed138e207ad6c5cbb9c00aa5aea",
+    "role": "personal",
+    "permissions": [
+      "register_entry",
+      "register_sale",
+      "view_reports",
+      "change_own_password"
+    ]
+  }
+}
